@@ -46,12 +46,12 @@ Hi, I'm **Priya Tiwari** — a passionate **Computer Science & Engineering stude
 
 > An advanced online coding platform for practicing Data Structures & Algorithms, real-time multi-language code execution, and AI-powered learning.
 
-• ⚛️ **React 19 & Tailwind CSS** interactive IDE with multi-language code execution (C, C++, Java, JS, Python 3) via Judge0
-• 🤖 **Context-aware AI Tutor** (Google Gemini API) for step-by-step hints, debugging, and $O(N)$ complexity analysis
-• 🎥 **Dual-source video editorials** supporting embedded YouTube walkthroughs and Cloudinary MP4s
-• 🍃 **Node.js, Express & MongoDB Atlas** backend optimized with 0ms in-memory caching and non-blocking Redis
-• 🛡️ **Role-Based Admin Panel** with Zod schema validation for problem creation, testcase editing, and video publishing
-• 📊 **Real-time submission analytics**, calendar-day daily streak tracking, and acceptance accuracy metrics
+- ⚛️ **React 19 & Tailwind CSS** interactive IDE with multi-language code execution (C, C++, Java, JS, Python 3) via Judge0
+- 🤖 **Context-aware AI Tutor** (Google Gemini API) for step-by-step hints, debugging, and $O(N)$ complexity analysis
+- 🎥 **Dual-source video editorials** supporting embedded YouTube walkthroughs and Cloudinary MP4s
+- 🍃 **Node.js, Express & MongoDB Atlas** backend optimized with 0ms in-memory caching and non-blocking Redis
+- 🛡️ **Role-Based Admin Panel** with Zod schema validation for problem creation, testcase editing, and video publishing
+- 📊 **Real-time submission analytics**, calendar-day daily streak tracking, and acceptance accuracy metrics
 
 🔗 **[Live Demo](https://code-forge-frontend-coral.vercel.app)** | 📂 **[View Code](https://github.com/Tiwari-priya16/CodeForge-Online-Coding-Platform)**
 
