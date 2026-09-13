@@ -57,21 +57,21 @@ Hi, I'm **Priya Tiwari** — a passionate **Computer Science & Engineering stude
 
 ---
 
-### 🏨 Hostel Management System
+### 🏨 HostelSync 
 
-**Full-Stack Hostel Management Platform**
+**Full-Stack Hostel Management System**
 
-> A MERN-based system designed to simplify hostel administration and improve communication between students and hostel staff.
+> A robust MERN-based platform designed to digitize hostel operations, automate facility management, and streamline student-staff communication.
 
-- 👨‍🎓 Student & Admin role-based access
-- 📝 Complaint and leave request management
-- 🛏️ Room allocation & transfer requests with tracking
-- 🍽️ Mess menu and student food ratings
-- 💰 Hostel fee/payment tracking
-- 📢 Notices and announcements
-- 💬 Feedback and hostel services
+*   🏛️ **3-Tier Role-Based Access:** Specialized dashboards for Students, Wardens, and Super Admins.
+*   📋 **Complaint & Leave Management:** End-to-end tracking with photo evidence and resolution proof.
+*   🧺 **Smart Laundry System:** Real-time machine slot booking with background automation for slot cleanup.
+*   💬 **WhatsApp-Style Community Hub:** General/Block chats, Lost & Found desk, and official announcements.
+*   🚏 **Digital Gate Pass:** Real-time entry/exit logging with movement tracking and curfew monitoring.
+*   🍱 **Mess Analytics:** Dynamic 7-day menu editor and student meal quality feedback loops.
+*   📷 **Cloud Infrastructure:** Secure Cloudinary image handling and real SMTP Email OTP verification.
 
-🔗 **[View Code](https://github.com/Tiwari-priya16/Hostel_Management_System.git)**
+🔗 **[Live Demo](hostel-management-system-one-mu.vercel.app)** | 📂 **[View Code](https://github.com/Tiwari-priya16/Hostel_Management_System)**
 
 ---
 
