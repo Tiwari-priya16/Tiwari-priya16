@@ -95,7 +95,7 @@ Hi, I'm **Priya Tiwari** — a passionate **Computer Science & Engineering stude
 
 # 🏆 Achievements
 
-- 💻 Solved **200+ problems on LeetCode**
+- 💻 Solved **250+ problems on LeetCode**
 - 🏆 **College Hackathon Winner** — HackSlash Developers' Club, NIT Patna
 - 🚀 Led a **4-member team** during ByteVerse Hackathon 2025
 - 🩺 Built **CureWell**, a healthcare web application during ByteVerse
